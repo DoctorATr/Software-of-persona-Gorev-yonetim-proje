@@ -1,0 +1,1 @@
+# Software-of-persona-G-rev-y-netim-proje
