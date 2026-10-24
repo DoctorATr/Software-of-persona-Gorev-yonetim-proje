@@ -35,3 +35,7 @@ Repo'yu Netlify'a bağla; `netlify.toml` build ayarlarını (`npm run build`, `d
 
 ## Ekran Görüntüsü
 ![Ekran görüntüsü](./screenshot.png)
+
+
+##Not
+bazı anlamadığım yerlerde yapay zekadan yardım aldım saygılarımla
